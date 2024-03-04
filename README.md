@@ -1,5 +1,5 @@
 <H3>ENTER YOUR NAME:D.R Vinuthna</H3>
-<H3>ENTER YOUR REGISTER NO:2122211230015</H3>
+<H3>ENTER YOUR REGISTER NO:2122211230017</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:28/2/24</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
